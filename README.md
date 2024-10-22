@@ -28,3 +28,7 @@ cd script
 
 1. http://localhost:18080/realms/myrealm/account
 
+
+## Copyright
+This project pulls Keycloak via Docker. Keycloak is licensed under the Apache License 2.0. For more details, please refer to [Keycloak's license](https://www.keycloak.org/downloads).
+
